@@ -8,3 +8,10 @@ php bin/console make:user
 php bin/console make:migration
 php bin/console doctrine:migration:migrate
 ```
+
+## Ajouter la registration
+
+```shell
+php bin/console make:registration-form
+```
+
